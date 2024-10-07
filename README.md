@@ -1,4 +1,4 @@
-## Seja bem vindo ao GitHub do workshop de desenvolvimento web da UEM <img src="https://media.tenor.com/DrdU6bRAfusAAAAi/bulbasaur-pokemon.gif" width="50">
+## Seja bem vindo ao GitHub do workshop de desenvolvimento web da UEM <img src="https://media.tenor.com/DrdU6bRAfusAAAAi/bulbasaur-pokemon.gif" width="40">
 
 Esse projeto foi desenvolvido pelos alunos:
 
